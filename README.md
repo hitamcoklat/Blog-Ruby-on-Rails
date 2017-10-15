@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Membuat Sistem Blog Sederhana Menggunakan Ruby on Rails
 
-Things you may want to cover:
+Untuk menjalankannya silahkan ketik perinta:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* bundle install (untuk menginstall gem yang sudah disisipkan)
+* rails server (untuk menjalankan HTTP Server)
